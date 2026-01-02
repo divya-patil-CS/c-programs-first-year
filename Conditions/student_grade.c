@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 int main(){
    int marks;
     printf("Enter marks(0-100):");
