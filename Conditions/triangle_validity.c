@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 int main() {
     int a,b,c;
     printf("Enter three sides of triangle:");
